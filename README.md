@@ -13,4 +13,10 @@
     📫 How to reach me <a href="mailto:juans.casado@gmail.com">juans.casado@gmail.com</a>
   </li> 
 </ul>
-
+<h1>Web Sites</h1>
+<h3>Portfolio: </h3>
+<a href="https://winderfree.github.io/portafolio-web/" rel="nofollow">https://winderfree.github.io/portafolio-web/</a>
+<hr>
+<h3>Blog:</h3>
+<a href="https://juans-blog.web.app/" rel="nofollow">https://juans-blog.web.app/</a>
+<hr>
