@@ -10,7 +10,7 @@
     🔍 I'm especially interested in web development, app automation, and cybersecurity, and I'm always up for a new technical challenge.
   </li>
   <li>
-    📫 How to reach me <a href="mailto:juans.casado@gmail.com">juans.casado@gmail.com</a>
+    📫 How to reach me <a href="mailto:juans.casado@gmail.com">juans.casado@gmail.com</a> OR <a href="mailto:juans.casado@hotmail.com">juans.casado@hotmail.com</a>
   </li> 
 </ul>
 <h1>Contributions:</h1>
